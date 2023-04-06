@@ -4,3 +4,5 @@ as well as help the application to authenticate them through log-in &amp;
 log-out. Also provides authorization details by using different npm packages, 
 such as bcrypt (for hashing) , validator (for validation user details) , 
 jwt (to create a session for the user) , cookie (along with jwt).
+
+https://encouraging-plum-goshawk.cyclic.app/
